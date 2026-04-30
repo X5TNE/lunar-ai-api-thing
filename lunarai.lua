@@ -6,7 +6,14 @@ Notes on what I am giving you:
 - Inference is slow, I'm sorry but I rely solely on eco-friendly hardware and am currently at a loss of budget
 - AI generated, you should always tell users that an API is generating, not providing human feedback.
 - Not logged
-- Not rate limited, however Cloudflare may get in the way
+- Now rate-limited:
+> IP-based Limit
+> 15 RPM
+> 5,000 RPD
+> 20,000 TPM
+> Global Limit (All Users)
+> 50,000 RPD
+> 200,000 TPM
 - OpenAI-compatible
 
 -- As of writing this script the server I have is in maintenence anyway, expect 404s until DD-MM-YY: 25-04-26.
