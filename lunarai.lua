@@ -48,7 +48,7 @@ function CallLunarAI(messages, model, callback)
         ---All Models--
 
         --Unlimited Usage--
-        playdate2-2b (Unavailable unless you ask me)
+        [REDACT]
 
         --Accepted Models--
         smollm3-3b
